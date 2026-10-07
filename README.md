@@ -60,6 +60,8 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Video Influencers](https://www.youtube.com/c/videoinfluencers) — YouTube marketing and growth strategies.
 - [Justin Brown – Primal Video](https://www.youtube.com/c/primalvideo) — Tutorials on video editing and YouTube growth.
 
+- [EditLogic](https://editlogic.io/) — Written CapCut tutorials and troubleshooting guides for creators (cache management, export settings, custom fonts).
+
 ## Communities & Forums
 
 - [YouTube Community](https://support.google.com/youtube/community) — Official community help forum.
